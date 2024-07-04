@@ -16,7 +16,7 @@ This project is a temperature controller developed with Arduino Nano. It uses a 
 
 ## Circuit Diagram
 
-![Circuit Diagram](docs/schematic/schematic.png)
+![Circuit Diagram](docs/schematic.png)
 
 ## Assembly Instructions
 
