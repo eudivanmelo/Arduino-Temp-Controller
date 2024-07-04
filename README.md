@@ -6,7 +6,7 @@ Este projeto é um controlador de temperatura desenvolvido com Arduino Nano. Ele
 
 ## Componentes
 
-- 1 Arduino Nano
+- 1 Arduino Nano ou equivalente
 - 1 ou mais sensores de temperatura DS18B20
 - 1 Módulo Relé 5V
 - 1 Display OLED I2C 128x64
